@@ -1,0 +1,47 @@
+.pagination{
+  border: 1px solid black;
+  margin: 20px;
+  padding: 20px;
+  
+}
+h1{
+  text-align: center;
+  color: green;
+  background-color: lightgray;
+  padding: 20px;
+  margin: 20px;
+}
+p{
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+  color: blueviolet;
+}
+ul{
+  display: flex;
+  list-style-type: none ;
+  padding: 10px;
+  background-color: lightgray;
+  align-content: center;
+  padding: 20px;
+  margin: 20px;
+  background-color: lightgray;
+}
+li{
+  padding: 20px;
+}
+#buttons{
+  margin: 5px;
+  background-color: blue;
+  border-radius: 5px;
+}
+td,tr{
+  padding: 10px;
+}
+#user{
+  display: block;
+  align-items: center;
+  padding: 20px;
+  margin: 20px;
+  background-color: lightgrey;
+}
